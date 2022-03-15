@@ -1,3 +1,7 @@
+# YouTube Video:
+
+This code is from a YouTube video: https://www.youtube.com/watch?v=hnmmkIIQDtU
+
 # Example Flow DApp on Local Emulator + Dev Wallet
 
 In this repo, you'll find some very basic and easy code to help you develop your first Flow DApp using the local emulator and dev wallet. The emulator is a great place to develop your code before going to TestNet.
