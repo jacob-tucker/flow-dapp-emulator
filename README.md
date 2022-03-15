@@ -24,6 +24,7 @@ In this repo, you'll find some very basic and easy code to help you develop your
 ## 3. Deploy your contract
 
 NOTE: Your flow.json must be setup like I have in the flow.json folder (already done for you)
+
 NOTE #2: This command must be run AFTER you start the emulator
 
 `flow project deploy --network=testnet`
